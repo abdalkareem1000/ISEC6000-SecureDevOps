@@ -5,10 +5,13 @@ This repository contains the project files and configurations for the ISEC6000 S
 
 - **Course**: ISEC6000 Secure DevOps
 - **University**: Curtin University
-- **Instructor**: [Instructor's Name]
 
 ## Setup Instructions
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/ISEC6000-SecureDevOps.git
+   ## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
